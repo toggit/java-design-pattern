@@ -1,4 +1,4 @@
-package StatePattern;
+package BehavioralDesignPatterns.StatePattern;
 
 public class TVStopState implements State {
 

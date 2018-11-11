@@ -1,5 +1,5 @@
 
-package StrategyPattern;
+package BehavioralDesignPatterns.StrategyPattern;
 
 public class Item {
 
